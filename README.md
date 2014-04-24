@@ -5,11 +5,13 @@ Python module that generates realistic-looking random reddit usernames.
 
 Example usage:
 
->>> import redditnames
->>> redditnames.generateRandom()
-u'crazyToasterKiller'
+    >>> import redditnames
+    >>> redditnames.generateRandom()
+    u'crazyToasterKiller'
 
-A few examples of names generated using this module:
+A few more examples of names generated using this module:
+
+```
 ass-Creator
 JewishConnoisseur
 SuperTreetaster
@@ -21,3 +23,4 @@ admiralWhore
 NARHWALLProgrammer
 serious-wang-fan
 Nazi_Examiner
+```
