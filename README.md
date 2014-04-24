@@ -1,4 +1,4 @@
-reddit-names
+redditnames
 ============
 
 Python module that generates realistic-looking random reddit usernames.
